@@ -1,3 +1,4 @@
 Fear me, I am the original file.  This is the first line in the original file (1).
 
+I am the third line, despite being above the second (3)
 I am the second line (2)
